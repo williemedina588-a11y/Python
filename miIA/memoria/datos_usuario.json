@@ -1,0 +1,56 @@
+{
+  "proyectos": {
+    "Dashil": {
+      "descripcion": "Está desarrollando una inteligencia artificial llamada Dashil",
+      "objetivos": [
+        "Definir el propósito y las características de la IA",
+        "Construir una IA con inteligencia artificial avanzada"
+      ],
+      "detalles": [
+        "Debe ser alta",
+        "Debe tener dos pisos",
+        "Debe estar debajo del mar",
+        "Debe tener una piscina interior"
+      ],
+      "progreso": "En desarrollo",
+      "tareas": [
+        "Diseñar los planos",
+        "Construir la estructura",
+        "Instalar sistemas de aire acondicionado y calefacción"
+      ]
+    },
+    "Llama": {
+      "descripcion": "Está desarrollando una inteligencia artificial llamada Llama",
+      "objetivos": [
+        "Definir el propósito y las características de la IA"
+      ],
+      "detalles": [
+        "Debe ser alta"
+      ],
+      "progreso": "",
+      "tareas": []
+    },
+    "Casa": {
+      "descripcion": "Está desarrollando un proyecto para construir una casa",
+      "objetivos": [
+        "Construir una casa"
+      ],
+      "detalles": [
+        "Debe ser alta",
+        "Debe tener dos pisos",
+        "Debe estar debajo del mar",
+        "Debe tener una piscina interior"
+      ],
+      "progreso": "En diseño",
+      "tareas": [
+        "Diseñar los planos",
+        "Construir la estructura",
+        "Instalar sistemas de aire acondicionado y calefacción"
+      ]
+    }
+  },
+  "preferencias": [],
+  "habilidades": [],
+  "intereses": [],
+  "informacion_personal": []
+}

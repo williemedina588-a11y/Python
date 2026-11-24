@@ -1,0 +1,26 @@
+[
+  {
+    "usuario": "hola",
+    "ia": "¡Hola! Me alegra que hayas vuelto a contactarme. ¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta o necesitas ayuda con algo en particular?"
+  },
+  {
+    "usuario": "me llamo willie",
+    "ia": "¡Hola Willie! Me alegra verte de nuevo. Me alegra que hayas decidido contactarme hoy. ¿En qué puedo ayudarte? ¿Tienes alguna pregunta o necesitas ayuda con algo en particular? ¿O simplemente quieres charlar un rato? Estoy aquí para ayudarte en lo que necesites. ¿Qué te trae hoy?"
+  },
+  {
+    "usuario": "como me llamo",
+    "ia": "¡Hola Willie! Me alegra verte de nuevo. Mi nombre es Dashil, y soy tu asistente personal. Estoy aquí para ayudarte en lo que necesites. ¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta, necesitas ayuda con algo en particular o simplemente quieres charlar un rato? Estoy aquí para escucharte y ofrecerte mi apoyo. ¿Qué te trae hoy?"
+  },
+  {
+    "usuario": "Me gusta programar en Python.",
+    "ia": "¡Hola Willie! Me alegra que estés disfrutando de la programación en Python. ¿Hay algo en particular con lo que estés teniendo dificultades o con lo que quieras aprender más? ¿Quieres mejorar tus habilidades en Python, o tienes un proyecto específico en mente? Estoy aquí para ayudarte y ofrecerte mi apoyo. ¿Quieres hablar sobre un tema en particular, como las variables, los tipos de datos, las funciones o los ejemplos de código? Estoy aquí para ayudarte a mejorar tus conocimientos de Python."
+  },
+  {
+    "usuario": "hola",
+    "ia": "¡Hola! Me alegra que hayas vuelto a contactarme. ¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta o necesitas ayuda con algo en particular? Estoy aquí para escucharte y ofrecerte mi apoyo. ¿Qué te trae hoy?"
+  },
+  {
+    "usuario": "python main.py",
+    "ia": "¡Hola Willie! Me alegra que estés trabajando en tu proyecto de Python. ¿Necesitas ayuda con algo específico o estás buscando sugerencias para mejorar tu código? ¿Quieres discutir sobre algún concepto en particular, como la programación orientada a objetos, la gestión de errores o la optimización del rendimiento? Estoy aquí para ayudarte y ofrecerte mi apoyo. ¿Qué te parece si empezamos con una revisión de tu código actual? ¿Quieres que lo reviso y te proporcione sugerencias para mejorarla?"
+  }
+]

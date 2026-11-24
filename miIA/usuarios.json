@@ -1,0 +1,20 @@
+{
+  "da65f793-b472-4735-978b-b8dcc627eb8f": {
+    "id": "da65f793-b472-4735-978b-b8dcc627eb8f",
+    "nombre": "Prueba",
+    "email": "prueba@dashil.com",
+    "password_hash": "scrypt:32768:8:1$V8BnEUvGaNSsVdG4$04bc37f4a219c88ea20886f7b91e8f125a215d74924ed8b47c0625f8a5b8dab7ae8a28be2c85d1bd078bf89c7d0583a59f14ff5b98a4f26541bcbb0cdb1b58ce"
+  },
+  "2db5948b-c448-40b7-a63b-e88400990d59": {
+    "id": "2db5948b-c448-40b7-a63b-e88400990d59",
+    "nombre": "manuelsfdggsgd",
+    "email": "willieyt3345@gmail.com",
+    "password_hash": "scrypt:32768:8:1$voPzLl4U9D8cStlJ$1d33a767908c65a4a89ac4b3c8d9bddf85a586acd0a1be23ee05b574486e93d1ec32ceee3063a6628a0aa3b9a191fdc0df48a55f3a3d18949d63f0c0802a21e5"
+  },
+  "99e9649d-17af-45c3-afc0-cf5af1ad03b3": {
+    "id": "99e9649d-17af-45c3-afc0-cf5af1ad03b3",
+    "nombre": "williemichael1234",
+    "email": "willieyt53@gmail.com",
+    "password_hash": "scrypt:32768:8:1$rpiGnPMcnmo62371$ffabeea67b8ebf97c4363e42338e8fee6548a4d8843253fdf534cde24de1a1fe907e8cb44308e2c8179994e4fd7beb31a5bbd2ff62c96cf1e4f8c485a12f7d7b"
+  }
+}

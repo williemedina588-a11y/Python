@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dashil</title>
+
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+
+    <div class="app">
+
+        <!-- BARRA LATERAL -->
+
+        <aside class="sidebar">
+
+            <div class="sidebar-top">
+
+                <div class="logo">
+                    <div class="logo-icon">D</div>
+                    <span>Dashil</span>
+                </div>
+
+                <button class="new-chat" id="newChat">
+                    <span>＋</span>
+                    Nueva conversación
+                </button>
+
+            </div>
+
+<div class="history">
+
+    <!-- CHATS FIJADOS -->
+
+    <div
+        class="history-section"
+        id="pinnedSection"
+    >
+
+        <p class="history-title">
+            📌 Fijados
+        </p>
+
+        <div
+            class="history-list"
+            id="pinnedChats"
+        ></div>
+
+    </div>
+
+
+    <!-- TODOS LOS DEMÁS CHATS -->
+
+    <div
+        class="history-section"
+        id="normalSection"
+    >
+
+        <p class="history-title">
+            Conversaciones
+        </p>
+
+        <div
+            class="history-list"
+            id="normalChats"
+        ></div>
+
+    </div>
+
+</div>
+
+
+          <div class="sidebar-bottom">
+
+    <button class="sidebar-button">
+        ⚙️
+        <span>Configuración</span>
+    </button>
+
+
+    <div class="profile-wrapper">
+
+        <button
+            class="profile-button"
+            id="profileButton"
+        >
+
+            <div
+                class="profile-avatar"
+                id="userAvatar"
+            >
+                U
+            </div>
+
+            <div class="profile-info">
+
+                <span id="userName">
+                    Usuario
+                </span>
+
+                <small>
+                    Cuenta de Dashil
+                </small>
+
+            </div>
+
+            <span class="profile-arrow">
+                ⋯
+            </span>
+
+        </button>
+
+
+        <div
+            class="profile-menu"
+            id="profileMenu"
+        >
+
+            <button>
+                👤 Mi perfil
+            </button>
+
+            <button>
+                ⚙️ Configuración
+            </button>
+
+            <div class="profile-menu-divider"></div>
+
+            <button
+                class="logout-menu-button"
+                id="logoutButton"
+            >
+                ↪ Cerrar sesión
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+        </aside>
+
+
+        <!-- CONTENIDO PRINCIPAL -->
+
+        <main class="main">
+
+            <!-- ENCABEZADO -->
+
+            <header class="topbar">
+
+                <div class="model-name">
+                    <span>Dashil</span>
+                    <span class="arrow">⌄</span>
+                </div>
+
+                <button class="menu-button">
+                    ⋯
+                </button>
+
+            </header>
+
+            <!-- Cerrar sesión -->
+
+            
+
+
+            <!-- ÁREA DEL CHAT -->
+
+            <section class="chat-container">
+
+                <div class="welcome" id="welcome">
+
+                    <div class="dashil-avatar">
+                        D
+                    </div>
+
+                    <h1>Hola, soy Dashil</h1>
+
+                    <p>
+                        Tu asistente personal de inteligencia artificial.
+                    </p>
+
+                </div>
+
+
+                <div class="messages" id="messages">
+                </div>
+
+            </section>
+
+
+            <!-- CAJA DE MENSAJE -->
+
+            <div class="input-container">
+
+                <div class="input-box">
+
+                    <button class="attach-button" title="Adjuntar archivo">
+                        ＋
+                    </button>
+
+                    <textarea
+                        id="userInput"
+                        placeholder="Escribe un mensaje a Dashil..."
+                        rows="1"></textarea>
+
+                    <button
+                        class="send-button"
+                        id="sendButton"
+                        title="Enviar">
+                        ↑
+                    </button>
+
+                </div>
+
+                <p class="disclaimer">
+                    Dashil es una IA y puede cometer error, ten paciencia.
+                </p>
+
+            </div>
+
+        </main>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

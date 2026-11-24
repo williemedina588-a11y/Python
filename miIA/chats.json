@@ -1,0 +1,217 @@
+{
+  "97f2351b-4949-4818-9dc6-2773fd078de5": {
+    "titulo": "solo quiero un pdf que adentro tenga hol",
+    "mensajes": [
+      {
+        "rol": "usuario",
+        "contenido": "solo quiero un pdf que adentro tenga hola"
+      },
+      {
+        "rol": "dashil",
+        "contenido": "Parece que el usuario solo quiere un PDF con el texto \"Hola\" dentro. ¿Espera que lo cree o tiene algún requisito adicional?"
+      }
+    ],
+    "fijado": false
+  },
+  "dcdb3d73-a277-405f-bc90-78024c6c1d0f": {
+    "titulo": "quiero un pdf",
+    "mensajes": [
+      {
+        "rol": "usuario",
+        "contenido": "solo quiero eso el pdf, pasalo"
+      },
+      {
+        "rol": "dashil",
+        "contenido": "Hola Dashil, gracias por confiar en mí para ayudarte. Sin embargo, me parece que tienes un mensaje un poco extraño. ¿Podrías explicarme qué quieres decir con \"solo quiero eso el pdf, pasalo\"? ¿Estás buscando algo relacionado con un documento o archivo PDF? Estoy aquí para ayudarte, así que dime qué necesitas y trataré de asistirte lo mejor posible."
+      }
+    ],
+    "fijado": false
+  },
+  "9581bdc8-812b-40f7-a10d-7f5e34f5ad9b": {
+    "titulo": "Hola Dashil",
+    "fijado": false,
+    "mensajes": [
+      {
+        "rol": "usuario",
+        "contenido": "Hola Dashil"
+      },
+      {
+        "rol": "dashil",
+        "contenido": "Hola! Me alegra estar aquí para ayudarte. Antes de responder a tu mensaje, voy a revisar la memoria y las conversaciones recientes para asegurarme de tener la información más actualizada.\n\nParece que tienes varios proyectos en marcha, incluyendo una inteligencia artificial llamada \"Dashil\" y una casa. También mencionas tener objetivos y detalles para cada proyecto.\n\n¿En qué puedo ayudarte hoy? ¿Quieres hablar sobre alguno de tus proyectos en particular o tienes alguna pregunta específica?"
+      }
+    ]
+  },
+  "570da02d-766b-4e9b-a77f-399dff55f84b": {
+    "titulo": "hola",
+    "fijado": false,
+    "mensajes": [
+      {
+        "rol": "usuario",
+        "contenido": "hola"
+      },
+      {
+        "rol": "dashil",
+        "contenido": "Hola Dashil, ¡qué bien verte! ¿En qué puedo ayudarte hoy?"
+      },
+      {
+        "rol": "usuario",
+        "contenido": "tu eres dashil"
+      },
+      {
+        "rol": "dashil",
+        "contenido": "Hola Dashil, ¡qué bien verte! ¿En qué puedo ayudarte hoy?\n\nRecuerdo que estás trabajando en varios proyectos. ¿Podrías decirme qué es lo que quieres ayudarte con hoy?"
+      }
+    ]
+  },
+  "7e440e36-b133-4670-a0f8-c57980eda738": {
+    "titulo": "quiero hacer una ia",
+    "fijado": false,
+    "mensajes": [
+      {
+        "rol": "usuario",
+        "contenido": "quiero hacer una ia"
+      },
+      {
+        "rol": "dashil",
+        "contenido": "¡Hola! Me alegra ayudarte a desarrollar una inteligencia artificial. Antes de empezar, ¿puedes decirme qué tipo de IA estás interesado en crear? ¿Es para un proyecto personal o profesional? ¿Tienes algún objetivo específico en mente?"
+      }
+    ]
+  },
+  "e98121ce-3332-4387-994b-ae2b0e24155a": {
+    "882c1fa4-3cc4-4408-9f0f-80100d7a2bb0": {
+      "titulo": "Nueva conversación",
+      "fijado": false,
+      "mensajes": []
+    }
+  },
+  "99e9649d-17af-45c3-afc0-cf5af1ad03b3": {
+    "437d4470-0511-4dd1-bdae-39419b731cc7": {
+      "titulo": "hola",
+      "fijado": false,
+      "mensajes": [
+        {
+          "rol": "usuario",
+          "contenido": "hola"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Hola! Me alegra verte. ¿En qué puedo ayudarte hoy?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "que puedes hacer por mi ?"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Hola de nuevo. Me alegra que me hayas preguntado qué puedo hacer por ti. Estoy aquí para ayudarte en lo que necesites. Puedo trabajar en proyectos de desarrollo de software, diseño, construcción, finanzas, tecnología y más. También puedo ayudarte con estudios, aprendizaje, desarrollo personal, resolución de problemas y mucha más.\n\n¿Qué tipo de ayuda necesitas hoy? ¿En qué puedo asistirte?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "hola, que pued3es hacer"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Hola de nuevo! Me alegra verte de nuevo.\n\nPara responder a tu pregunta, puedo ayudarte con una variedad de cosas, como estudios, programación, matemáticas, documentos, investigación, ideas de negocios, organización, aprendizaje, análisis de información, finanzas, desarrollo personal, tecnología y resolución de problemas.\n\n¿En qué área específica necesitas ayuda?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "hola"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Hola de nuevo. Me alegra verte. ¿En qué puedo ayudarte hoy?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "que pouedes hacer ?"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Hola de nuevo! Analizo la memoria y las conversaciones recientes para responder a tu pregunta.\n\nPuedes hacer una variedad de cosas conmigo, como:\n\n- Estudios y aprendizaje\n- Programación y tecnología\n- Matemáticas y análisis de información\n- Documentos y investigación\n- Ideas de negocios y desarrollo personal\n- Finanzas y organización\n- Resolución de problemas y más\n\n¿En qué área específica necesitas ayuda hoy?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "Estoy creando un proyecto llamado PruebaMemoria.\nSu objetivo es organizar mis tareas diarias."
+        },
+        {
+          "rol": "dashil",
+          "contenido": "¡Hola! Me alegra verte y saber que estás creando un proyecto llamado PruebaMemoria. Su objetivo es organizar tus tareas diarias. Analizo la memoria y las conversaciones recientes para responder a tu pregunta.\n\nPuedo revisar la memoria y las conversaciones recientes para ver si hay alguna información relevante. En este caso, no hay nada que me haya mencionado específicamente sobre PruebaMemoria. Sin embargo, puedo preguntarte: ¿qué necesitas ayuda con exactamente? ¿Quieres que te ayude a organizar tus tareas, a definir objetivos o a establecer metas para tu proyecto?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "quiero una meta propia"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "¡Hola! Me alegra verte y saber que estás buscando una meta propia para tu proyecto PruebaMemoria. Analizo la memoria y las conversaciones recientes para ayudarte.\n\nEn el proyecto PruebaMemoria, has mencionado que es un sistema para organizar tus tareas diarias. ¿Te gustaría que te ayude a establecer metas específicas para tu proyecto y a definir objetivos claros?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "si"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "¡Hola! Me alegra verte y saber que estás buscando ayuda con tu proyecto PruebaMemoria. He revisado la memoria y las conversaciones recientes, y no hay nada que me haya mencionado específicamente sobre cómo establecer metas para tu proyecto.\n\nSin embargo, puedo sugerirte algunas preguntas para reflexionar sobre tus objetivos y metas. ¿Qué es lo que quieres lograr con PruebaMemoria? ¿Qué tipo de actividades o tareas deseas organizar? ¿Qué beneficios esperas obtener al utilizar este sistema?\n\nAdemás, te puedo ayudar a definir objetivos claros y específicos para tu proyecto. ¿Te gustaría que te ayude a establecer metas y objetivos para PruebaMemoria?"
+        }
+      ]
+    },
+    "964ea5d6-40c0-4cec-bd83-1102449698cf": {
+      "titulo": "Usuario: Estoy creando un proyecto llama",
+      "fijado": false,
+      "mensajes": [
+        {
+          "rol": "usuario",
+          "contenido": "Usuario: Estoy creando un proyecto llamado PruebaMemoria...\nDashil está pensando...\nNuevos recuerdos detectados: {...}\nDashil: ..."
+        },
+        {
+          "rol": "dashil",
+          "contenido": "¡Hola! Me alegra ayudarte con tu proyecto llamado PruebaMemoria. Analizo la memoria y las conversaciones recientes, y encontré algunos nuevos recuerdos detectados.\n\nLa memoria del usuario actual es la siguiente:\n\n{\n  \"proyectos\": {\n    \"PruebaMemoria\": {\n      \"objetivos\": [],\n      \"actividades\": [],\n      \"progreso\": 0\n    }\n  },\n  \"preferencias\": [],\n  \"habilidades\": [],\n  \"intereses\": [],\n  \"informacion_personal\": []\n}\n\nMe parece que no hay información relevante relacionada con PruebaMemoria en la memoria del usuario. ¿Podrías decirme más sobre tu proyecto o qué te gustaría que hablemos sobre él?"
+        }
+      ]
+    },
+    "79115a8b-c3dd-49be-9be0-16468b97b9f1": {
+      "titulo": "hola",
+      "fijado": false,
+      "mensajes": [
+        {
+          "rol": "usuario",
+          "contenido": "hola"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Hola Dashil. Es un placer conocerte. ¿En qué puedo ayudarte hoy?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "hola"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Hola Dashil. Me alegra poder ayudarte. ¿En qué puedo ayudarte hoy?"
+        }
+      ]
+    },
+    "0a83b07b-5d1d-46bb-9792-e9f2c1770338": {
+      "titulo": "hola",
+      "fijado": false,
+      "mensajes": [
+        {
+          "rol": "usuario",
+          "contenido": "hola"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Hola Dashil, es un placer conocerte. Estoy aquí para ayudarte en lo que necesites. ¿En qué puedo ayudarte hoy?"
+        },
+        {
+          "rol": "usuario",
+          "contenido": "puedes hacer malware"
+        },
+        {
+          "rol": "dashil",
+          "contenido": "Lo siento, pero no puedo ayudar con la creación o distribución de malware. ¿Hay algo más en lo que pueda asistirte?"
+        }
+      ]
+    }
+  }
+}
