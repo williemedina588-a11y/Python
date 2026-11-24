@@ -1,0 +1,88 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #e8eefc;
+  color: #16213e;
+  margin: 0;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+
+main {
+  width: 100%;
+  max-width: 420px;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 28px 24px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 0 6px;
+}
+
+.subtitulo {
+  margin: 0 0 20px;
+  color: #5b6785;
+}
+
+.intentos {
+  font-size: 1.1rem;
+}
+
+.entrada {
+  display: flex;
+  gap: 10px;
+  margin: 16px 0;
+}
+
+input {
+  flex: 1;
+  min-width: 0;
+  font-size: 1.2rem;
+  padding: 12px;
+  border: 2px solid #c9d3ee;
+  border-radius: 12px;
+}
+
+button {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 12px;
+  background: #3b4cca;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+#btnNueva {
+  background: transparent;
+  color: #16213e;
+  border: 2px solid #c9d3ee;
+  width: 100%;
+  margin-top: 8px;
+}
+
+#mensaje {
+  padding: 12px;
+  border-radius: 12px;
+  background: #eef1fb;
+  font-weight: bold;
+}
+
+#mensaje.ok {
+  background: #dcf5ea;
+  color: #12805c;
+}
+
+#mensaje.mal {
+  background: #fde4e2;
+  color: #b3261e;
+}

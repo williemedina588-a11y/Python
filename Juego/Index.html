@@ -9,8 +9,19 @@
 <body>
   <main>
     <h1>Número Secreto</h1>
-    <p>Adivina un número del 1 al 10 en tres intentos.</p>
-  </main>
+  <p class="subtitulo">Adivina un número del 1 al 10 en tres intentos.</p>
+
+  <p class="intentos">Intentos restantes: <strong id="intentos">3</strong></p>
+
+  <div class="entrada">
+    <input id="campoNumero" type="number" min="1" max="10" placeholder="1 a 10">
+    <button id="btnAdivinar" type="button">Adivinar</button>
+  </div>
+
+  <p id="mensaje">Escribe un número y pulsa Adivinar.</p>
+
+  <button id="btnNueva" type="button">Nueva partida</button>
+</main>
   <script src="js/script.js"></script>
 </body>
 </html>
